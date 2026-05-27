@@ -8,6 +8,7 @@ May 2026
 
 # Current focus
 
-- Settingg up my development portfolio 
+- Setting up my development portfolio 
 -Learning Git and Github
--Building real projects
+-Building real project
+-Learning the Git workflow: add, commit, push
