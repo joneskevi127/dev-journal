@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0f0f0f;
+    color: #e0e0e0;
+    font-family: 'Segoe UI',sans-serif;
+    line-height: 1.7;
+}
+header {
+    padding: 80px 20px;
+    border-bottom: 1px solid #222;
+}
+h1 {
+    font-size: 3rem;
+   color: #ffffff;
+}
+.tagline {
+    font-size: 1.1rem;
+    color: #888
+    margin-top: 10px;
+}
+section {
+    padding: 60px 40px;
+    border-bottom: 1px solid #222;
+    max-width: 800px;
+}
+h2 {
+    font-size: 1.4rem;
+    color: #e07b39;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
