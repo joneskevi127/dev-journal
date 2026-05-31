@@ -9,6 +9,7 @@ body {
     color: #e0e0e0;
     font-family: 'Segoe UI',sans-serif;
     line-height: 1.7;
+    padding-top: 80px;
 }
 header {
     padding: 80px 20px;
@@ -34,4 +35,32 @@ h2 {
     margin-bottom: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #0a0a0a;
+  padding: 20px 40px;
+  border-bottom: 1px solid #222;
+  z-index: 100;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+nav a {
+  color: #888;
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #e07b39;
 }
